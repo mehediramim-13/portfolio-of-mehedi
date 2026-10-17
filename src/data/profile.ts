@@ -5,7 +5,7 @@ export const profile = {
   photo: "/profile.jpg",
   resume: "/resume.pdf",
   location: "Jamalpur, Bangladesh",
-  email: "fuegoramim13@gmail.com",
+  email: "mehedihasanramim13@gmail.com",
   phone: "+880 1707-071030",
   whatsapp: "8801707071030",
   github: "https://github.com/mehediramim-13",
